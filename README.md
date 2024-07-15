@@ -1,4 +1,4 @@
-Project: FastTag and Gold Price Prediction
+#Project: FastTag and Gold Price Prediction
 Repository Overview
 This repository contains two main projects: a FastTag system implementation and a Gold Price Prediction model. It includes Jupyter Notebooks for running the code and a PDF report for detailed documentation of the fraud detection aspect in the FastTag project.
 
